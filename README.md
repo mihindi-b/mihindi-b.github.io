@@ -1,7 +1,7 @@
 # Mihindi Balasuriya
 
 ## About Me
-![My Photo](photo.jpeg)
+<img src="photo.jpeg" alt="My Photo" width="250">
 
 Welcome to my e-portfolio! I'm Mihindi Balasuriya, a 19 year old undergraduate pursuing a BSc (Hons) in Biotechnology at SLIIT. This portfolio showcases my academic journey, projects, and skills as I work toward building a career in the biotechnology field. I have a strong interest in research and innovation, particularly in how science can be applied to improve healthcare and everyday life. Through this portfolio, I hope to reflect not just what I've learned, but how I've grown as a student and future biotechnologist.
 

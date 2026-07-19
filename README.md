@@ -61,4 +61,4 @@ Welcome to my e-portfolio! I'm Mihindi Balasuriya, a 19 year old undergraduate p
 ## Contact Details
 - **Email:** mihindix18@gmail.com
 - **Phone:** 072 932 6117
-- **Instagram:** [@mihindi.b](https://instagram.com/mihindi.b)
+- **Instagram:** [@_mihindi.b_](https://www.instagram.com/_mihindi.b_?igsh=a2t2MzRsamI4dXR6&utm_source=qr)

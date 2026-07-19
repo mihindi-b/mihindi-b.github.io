@@ -56,7 +56,7 @@ Welcome to my e-portfolio! I'm Mihindi Balasuriya, a 19 year old undergraduate p
 - Recognized for artistic ability across multiple art competitions
 
 ## Resume
-[Download my Resume (PDF)](https://drive.google.com/file/d/1XVmdivDYPgoCsYFVMruzvtNF2sSOZ7rz/view?usp=sharing)
+[Download my Resume (PDF)](HS26510070%20-%20cv.pdf)
 
 ## Contact Details
 - **Email:** mihindix18@gmail.com
